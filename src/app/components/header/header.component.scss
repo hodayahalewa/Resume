@@ -20,7 +20,9 @@
     }
 
     &__links{
+        
         .d-flex{
+          
             justify-content: space-evenly;
         }
         a{
@@ -33,7 +35,7 @@
     }
 }
 &__nav{
-    margin-top: 30px;
+    //margin-top: 0px;
     nav{
         ul{
             list-style: none;
